@@ -26,7 +26,6 @@
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json",
-  "style": "v2",
   "lazyCodeLoading": "requiredComponents",
   "tabBar": {
     "color": "#A2A9B0",
